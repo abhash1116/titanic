@@ -16,8 +16,8 @@ Predict passenger survival on the Titanic using machine learning.
 - Metrics: Accuracy, Precision, Recall, F1, Confusion Matrix
 
 ## Files
-- `Titanic_EDA_Modeling.ipynb` → Full notebook
-- `train.csv` / `test.csv` → Data
+- `titanic1.ipynb` → Full notebook
+- `train(1).csv` / `test(1).csv` → Data
 - `submission.csv` → Sample submission
 
 ## How to Run
